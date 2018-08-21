@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    AudioApp Beta
+                    AudioApp LALA
                 </div>
 
                 <div class="links">
